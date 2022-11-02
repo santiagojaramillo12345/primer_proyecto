@@ -1,0 +1,22 @@
+body{  font-family: 'Alumni Sans Inline One', cursive;
+    font-family: 'PT Sans', sans-serif;color:black}
+  
+  
+  
+   a{ text-decoration: none;} 
+  
+  
+  a:hover{background-color: rgb(221, 5, 5);color: purple;}
+  a{color: rgb(4, 59, 18);}
+  
+  
+  .titulo1{ text-align: center; background-color: aqua; height:24px    }
+  .enlaces{text-align: left; background-color: aqua ;height: 24px;width: 100px;margin: 0px 0px; padding: 0px;}
+  
+  .imagen1{height: 380px;width: 580px; margin-left: 20%; padding-top: 2%;}
+  
+  li{list-style-type: none}
+  
+  H2{text-align:left;color:black;padding: 0px;height: 24;width: 24;}
+  
+  p{text-align: justify;;}
